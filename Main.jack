@@ -1,0 +1,9 @@
+// cd ".\EOC END T\Jack_Compiler_starter"
+// python -m src.jack_compiler .\input\Main.jack
+class Main {
+    function void main() {
+        var int x;
+        let x = 7 + 8;
+        return;
+    }
+}

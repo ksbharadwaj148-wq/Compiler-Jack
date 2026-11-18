@@ -1,0 +1,7 @@
+function Main.main 1
+push constant 7
+push constant 8
+add
+pop local 0
+push constant 0
+return
